@@ -2173,6 +2173,7 @@ html {
     max-width: 1200px;
     margin-left: 40px;
     margin-right: 40px;
+    margin-top: 0;
   }
   
   .custom-container.single-container {
